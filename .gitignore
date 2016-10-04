@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -54,4 +54,5 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
->>>>>>> c5f10e815f38452a806a6cc0de43cd8d76ec6772
+
+ public/frontend/images/videos/qnique-video-background.mp4
